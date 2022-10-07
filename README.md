@@ -1,3 +1,5 @@
+AI Model based web application to detect pneumonia by X Ray images
+
 # xray
 softwre development in AI project
 Current Progress:
